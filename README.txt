@@ -1,5 +1,5 @@
 
-This is a Java-based Translator App built with Swing, FreeTTS, and a language translation API to provide quick and easy translations across different languages.
+This is a Java-based Translator App built with Swing, FreeTTS API, and a language translation API to provide quick and easy translations across different languages.
 
 Features
 Real-Time Text Translation: Translates text between multiple languages using a reliable language translation API.
