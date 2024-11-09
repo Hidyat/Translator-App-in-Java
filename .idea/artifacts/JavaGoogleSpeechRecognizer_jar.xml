@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaGoogleSpeechRecognizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaGoogleSpeechRecognizer_jar</output-path>
+    <root id="archive" name="JavaGoogleSpeechRecognizer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaGoogleSpeechRecognizer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sourceforge/javaflacencoder/java-flac-encoder/0.3.7/java-flac-encoder-0.3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/TextToSpeech-master/dist/TextToSpeech.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/goxr3plus/java-google-speech-api/V2.0/java-google-speech-api-V2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20150729/json-20150729.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/TextToSpeech-master/test/jsapi.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
