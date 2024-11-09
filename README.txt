@@ -14,8 +14,8 @@ Translation API: Provides accurate translations between a wide range of language
 
 Setup and Usage
 Clone the repository.
+YOU MUST INCLUDE THE JAR FILE OF (TextToSpeech-master) AND (GOOGLE TRANSLATED) WHICH BOTH LOCATED INSIDE DOWNLOADED REPOSITORY (without this the code won't work).
 Make sure to have the FreeTTS library and Java Swing configured in your environment.
-Register for an API key with the translation service and add it to the project.
-Run the MainPage.java file to start the application.
+Run the Main.java file to start the application.
 
 This app is ideal for quick translations, learning pronunciation, and improving language skills in an interactive way!
